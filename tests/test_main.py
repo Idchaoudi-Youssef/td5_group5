@@ -1,4 +1,4 @@
-from main import greet
+from td5_group5.main import greet
 
 def test_greet(capsys):
     # Appel de la fonction à tester
